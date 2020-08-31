@@ -7,7 +7,8 @@ ltrs = {'a': 2.866, 'b': 2.359, 'c': 2.532, 'd': 2.829, 'e': 2.198,
         'u': 2.748, 'v': 2.776, 'w': 4.108, 'x': 2.55, 'y': 2.596,
         'z': 2.55, '*': 0.802}
 
-full_names = {'alex': 12.6, 'audrey': 18.89, 'elijah': 15.91,  'graham': 20.653, 'natalie': 18.165, 'river': 10.824, 'stella': 17.43}
+full_names = {'aidan': 15, 'alex': 12.6, 'andrew': 20.5, 'audrey': 18.89, 'elijah': 15.91, 'elise': 12.588, 'graham': 20.653, 'james': 15.74, 'logan': 16.5, 'max': 11.52, 'mia': 9.775, 'natalie': 18.165, 
+        'olympia': 20.2, 'river': 10.824, 'sebastian': 24.8, 'stella': 17.43}
 
 def calc_length(name):
     x = []
