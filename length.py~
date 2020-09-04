@@ -35,4 +35,3 @@ while True:
     else:
         part = (calc_length(puzzle))
         print(f"The part length is  about {part} inches")
-print(full_names)
