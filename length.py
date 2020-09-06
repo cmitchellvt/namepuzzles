@@ -31,12 +31,7 @@ while True:
     if puzzle == 'q':
         break
     elif puzzle in full_names.keys():
-<<<<<<< HEAD
-        print(f"The exact length is {full_names.get(puzzle)}")
-=======
         print(f"The exact length is {full_names.get(puzzle)} inches")
->>>>>>> 91a0086... removed print(full_names) at end
     else:
         part = (calc_length(puzzle))
         print(f"The part length is  about {part} inches")
-print(full_names)
