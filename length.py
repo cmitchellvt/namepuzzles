@@ -23,7 +23,7 @@ def calc_length(name):
         i = i.lower()
         if i in ltrs:
             x.append(ltrs.get(i))
-    return sum(x) + (len(x) * 0.25) + 1
+    return sum(x) + (len(x) * 0.5) + 1
 
 while True:
     puzzle = input("Name: ")
